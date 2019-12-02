@@ -21,9 +21,6 @@ https://cooltext.com/Logo-Design-Legal
 Title Background
 https://opengameart.org/content/fossil-cave
 
-UI Base
-https://opengameart.org/content/fantasy-ui-elements-by-ravenmore
-
 Color Palette https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=757575&secondary.color=6D4C41
 
 Hex Graph
